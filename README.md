@@ -1,5 +1,5 @@
 # How Inflation Rewired Consumer Spending, 2024 - 2026 
-Analysis and data behind [this post](LINK-TO-SUBSTACK-POST)
+Analysis and data behind [this post](https://saisathvikaramaraju.substack.com/p/inflation-slowed-but-your-grocery)
 
 ## The question 
 Between January 2024 and June 2026 (BEA quarters 2024 Q1 – 2026 Q2), did US household spending rise because people bought more - or because things cost more? 
