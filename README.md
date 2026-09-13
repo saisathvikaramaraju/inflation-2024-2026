@@ -17,7 +17,7 @@ Across the ten quarters from 2024 Q1 to 2026 Q2, dollars moved and quantity bare
 | `chai_style.py` | Chart styling |
 
 ## Method 
-1. Pull nominal spending by category (BEA Table, 2.4.5U, Census MARTS)
+1. Pull nominal spending by category (BEA Table 2.4.5U)
 2. Pull a matching CPI series for each spending category (BLS)
 3. Deflate nominal spending by its category price index to get real spending.
 4. Rebase every series to 2024 Q1 = 100 so they are comparable.
@@ -35,7 +35,7 @@ Every chart in the post regenerates into `charts/`.
 5. Substitution and reduction look identical in aggregate data. When real spending falls, I cannot tell whether people bought fewer items or cheaper ones.
 
 ## Data as of 
-August 15, 2026 - see `data/data.md` for per-file pull dates. 
+September 10, 2026 - see `data/data.md` for per-file pull dates. 
 
 ## Author 
 Sai Sathvika Ramaraju 
