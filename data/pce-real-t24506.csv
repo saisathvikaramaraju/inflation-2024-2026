@@ -1,0 +1,126 @@
+"Table 2.4.6. Real Personal Consumption Expenditures by Type of Product, Chained Dollars"
+"Table 2.4.6. Real Personal Consumption Expenditures by Type of Product, Chained Dollars"
+"Last Revised on: August 26, 2026 - Next Release Date September 30, 2026"
+Line,,2024,2024,2024,2024,2025,2025,2025,2025,2026,2026
+Line,,Q1,Q2,Q3,Q4,Q1,Q2,Q3,Q4,Q1,Q2
+1,"            Personal consumption expenditures",15857.7,16009.6,16165.8,16320.9,16345.8,16445.7,16585.9,16665.2,16687.7,16829.7
+2,Goods,5349.5,5421.0,5501.9,5594.7,5597.4,5628.4,5670.7,5675.1,5682.7,5742.6
+3,"    Durable goods",1994.3,2031.8,2074.0,2138.4,2120.1,2132.2,2140.4,2141.2,2143.7,2173.7
+4,"        Motor vehicles and parts",563.3,572.9,589.7,614.3,596.0,609.9,599.5,587.0,593.0,608.4
+5,"            New motor vehicles (55)",312.5,319.7,326.2,344.9,337.7,344.6,338.9,322.8,312.0,331.9
+6,"            Net purchases of used motor vehicles (56)",154.8,156.4,166.3,171.1,159.1,165.8,162.6,165.6,179.7,174.8
+7,"            Motor vehicle parts and accessories (58)",98.9,99.7,99.8,101.4,102.6,102.8,101.2,101.0,102.5,103.8
+8,"        Furnishings and durable household equipment",425.8,436.6,446.8,454.4,457.1,454.8,449.8,450.2,453.2,465.7
+9,"            Furniture and furnishings (parts of 31 and 32)",241.4,246.3,253.4,258.7,258.3,257.8,254.7,253.9,256.3,265.4
+10,"            Household appliances (part of 33)",75.4,77.3,78.0,79.4,81.0,78.9,79.3,80.3,82.8,85.1
+11,"            Glassware, tableware, and household utensils (34)",62.7,67.1,67.8,68.7,71.6,73.1,71.5,70.9,67.9,68.0
+12,"            Tools and equipment for house and garden (35)",48.3,48.7,50.1,50.3,49.6,48.7,48.0,48.5,49.0,49.8
+13,"        Recreational goods and vehicles",746.3,762.5,774.2,802.4,804.0,798.9,828.0,846.8,830.8,829.4
+14,"            Video, audio, photographic, and information processing equipment and media (75, 76, and part of 93)",535.5,549.1,555.9,578.1,579.8,573.3,605.1,617.2,596.6,581.5
+15,"            Sporting equipment, supplies, guns, and ammunition (part of 80)",114.1,115.3,118.2,121.2,121.7,122.3,124.5,127.4,127.4,130.5
+16,"            Sports and recreational vehicles (79)",83.6,85.5,87.6,90.3,90.4,89.2,89.2,92.2,91.6,95.6
+17,"            Recreational books (part of 90)",29.5,30.1,29.8,31.6,31.2,32.2,31.8,32.7,34.4,37.2
+18,"            Musical instruments (part of 80)",7.3,7.3,7.4,7.3,7.2,7.3,7.3,7.4,7.5,7.5
+19,"        Other durable goods",296.6,298.4,300.6,305.3,304.7,307.0,309.5,309.9,315.5,315.6
+20,"            Jewelry and watches (part of 119)",94.5,93.3,94.4,94.3,92.6,93.8,94.3,91.8,91.9,87.9
+21,"            Therapeutic appliances and equipment (42)",85.3,85.2,85.3,87.2,87.4,87.6,87.3,87.9,89.5,91.2
+22,"            Educational books (96)",8.4,8.5,8.3,8.1,8.0,8.0,7.8,8.4,8.4,8.7
+23,"            Luggage and similar personal items (part of 119)",41.7,43.0,43.3,44.8,44.7,44.6,45.6,46.8,46.5,47.4
+24,"            Telephone and related communication equipment",84.7,88.7,90.3,93.5,96.9,98.8,102.6,104.2,115.5,121.5
+25,"    Nondurable goods",3362.8,3398.0,3438.2,3470.2,3488.9,3507.9,3541.2,3544.8,3549.8,3580.7
+26,"        Food and beverages purchased for off-premises consumption",1151.0,1163.1,1170.7,1176.9,1180.0,1180.6,1186.2,1182.5,1180.9,1187.1
+27,"            Food and nonalcoholic beverages purchased for off-premises consumption (4)",955.3,965.4,972.1,976.1,979.9,979.5,983.6,980.9,977.4,981.4
+28,"            Alcoholic beverages purchased for off-premises consumption (5)",195.9,198.0,198.8,201.2,200.4,201.3,203.0,202.0,204.1,206.4
+29,"            Food produced and consumed on farms (6)",0.6,0.6,0.5,0.5,0.5,0.6,0.6,0.6,0.6,0.6
+30,"        Clothing and footwear",503.0,506.6,509.8,519.4,529.3,536.8,545.5,551.6,551.4,555.6
+31,"            Garments",392.8,396.0,397.7,406.8,415.7,419.9,428.5,433.9,432.1,436.9
+32,"                Women's and girls' clothing (10)",240.7,242.1,242.0,249.7,256.9,257.9,262.5,266.2,262.8,264.2
+33,"                Men's and boys' clothing (11)",129.9,130.8,132.2,133.3,135.0,136.8,141.2,142.9,143.5,145.8
+34,"                Children's and infants' clothing (12)",23.0,23.8,24.1,24.7,24.8,26.1,25.7,25.6,26.4,27.4
+35,"            Other clothing materials and footwear (13 and 17)",110.4,110.8,112.3,112.8,113.8,117.1,117.2,118.1,119.6,119.0
+36,"        Gasoline and other energy goods",310.2,316.4,319.8,318.1,320.4,318.1,319.3,316.9,317.5,310.3
+37,"            Motor vehicle fuels, lubricants, and fluids (59)",292.9,299.0,301.5,299.2,299.6,298.2,299.0,296.4,297.1,294.8
+38,"            Fuel oil and other fuels (29)",17.3,17.4,18.2,18.8,20.7,19.9,20.2,20.4,20.3,16.0
+39,"        Other nondurable goods",1411.9,1424.3,1451.1,1471.0,1475.3,1490.4,1509.7,1514.7,1521.3,1553.0
+40,"            Pharmaceutical and other medical products (40 and 41)",607.8,613.5,634.8,641.7,643.2,657.4,675.7,674.9,672.6,693.9
+41,"            Recreational items (parts of 80, 92, and 93)",305.8,308.7,312.3,322.4,327.4,330.4,330.3,334.7,341.8,346.7
+42,"            Household supplies (parts of 32 and 36)",161.4,163.8,166.7,167.9,168.3,168.3,168.4,170.1,171.4,175.4
+43,"            Personal care products (part of 118)",177.1,179.4,182.3,185.0,185.7,187.6,189.8,190.5,191.2,193.6
+44,"            Tobacco (127)",79.5,77.3,75.2,73.9,72.2,70.2,68.3,66.9,66.6,66.5
+45,"            Magazines, newspapers, and stationery (part of 90)",88.6,90.4,91.0,92.2,92.2,92.2,94.8,96.1,97.0,97.7
+46,"            Net expenditures abroad by U.S. residents (131)",8.9,9.4,8.9,9.6,9.5,9.2,8.6,8.7,8.5,8.7
+47,Services,10524.4,10606.8,10685.1,10752.1,10773.6,10842.3,10939.6,11011.7,11026.6,11110.3
+48,"    Household consumption expenditures (for services)",10114.6,10185.2,10254.0,10331.2,10366.4,10446.6,10539.0,10603.2,10599.5,10685.9
+49,"        Housing and utilities",2652.8,2671.6,2677.8,2685.0,2703.2,2701.7,2703.5,2716.0,2724.4,2728.3
+50,"            Housing",2313.3,2321.8,2330.0,2337.5,2344.3,2351.1,2358.1,2365.2,2372.1,2378.8
+51,"                Rental of tenant-occupied nonfarm housing (20)",539.1,542.0,544.5,546.6,548.2,549.4,550.4,551.5,552.5,553.4
+52,"                Imputed rental of owner-occupied nonfarm housing (21)",1751.5,1757.0,1762.7,1768.2,1773.3,1778.9,1784.9,1791.0,1796.9,1802.8
+53,"                Rental value of farm dwellings (22)",20.3,20.3,20.4,20.4,20.4,20.4,20.4,20.3,20.3,20.3
+54,"                Group housing (23)",2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4
+55,"            Household utilities",338.8,349.3,347.2,346.8,358.5,350.0,344.9,350.3,351.9,349.0
+56,"                Water supply and sanitation (25)",104.7,105.3,106.1,106.7,106.3,106.3,106.0,105.4,106.0,106.4
+57,"                Electricity and gas",234.3,244.1,241.2,240.3,252.4,243.9,239.1,245.2,246.1,242.7
+58,"                    Electricity (27)",187.3,196.7,191.0,193.0,199.9,192.2,188.8,193.3,193.0,189.0
+59,"                    Natural gas (28)",47.1,47.4,50.4,47.4,52.5,51.7,50.3,51.9,53.0,53.6
+60,"        Health care",2768.3,2791.4,2836.1,2860.6,2881.4,2915.3,2962.8,2984.3,2984.7,3034.0
+61,"            Outpatient services",1357.6,1384.1,1411.5,1423.3,1430.4,1450.5,1476.3,1490.7,1485.3,1505.4
+62,"                Physician services (44)",702.2,716.5,732.0,734.8,737.2,741.2,754.6,759.2,757.0,769.4
+63,"                Dental services (45)",145.5,146.4,147.3,146.9,149.3,152.7,152.3,154.1,155.0,155.6
+64,"                Paramedical services (46)",511.0,522.5,533.8,543.5,545.4,557.9,571.2,579.1,574.7,582.2
+65,"            Hospital and nursing home services",1414.3,1412.0,1429.8,1442.5,1456.1,1470.1,1492.1,1499.5,1504.8,1533.8
+66,"                Hospitals (51)",1223.6,1219.7,1234.8,1245.5,1256.5,1268.5,1287.2,1294.4,1298.2,1325.2
+67,"                Nursing homes (52)",191.1,192.7,195.3,197.3,199.8,201.9,205.1,205.4,206.9,208.9
+68,"        Transportation services",485.4,507.3,504.3,506.5,507.1,515.8,520.4,523.4,524.1,527.5
+69,"            Motor vehicle services",259.6,267.4,263.7,266.9,267.6,272.2,272.2,276.8,272.9,273.3
+70,"                Motor vehicle maintenance and repair (60)",173.3,181.4,177.0,178.5,178.0,180.5,178.8,181.3,176.7,176.4
+71,"                Other motor vehicle services (61)",86.3,85.7,86.7,88.5,89.8,92.1,94.1,96.3,97.5,98.4
+72,"            Public transportation",234.4,249.5,250.5,249.2,249.1,253.3,258.5,256.4,261.7,265.0
+73,"                Ground transportation (63)",87.0,93.3,93.0,93.8,95.5,100.3,104.7,104.6,104.5,106.7
+74,"                Air transportation (64)",144.2,153.0,153.9,152.0,150.2,150.4,151.5,149.5,154.4,155.7
+75,"                Water transportation (65)",6.4,6.8,7.3,7.2,7.6,7.4,7.7,7.8,8.0,8.0
+76,"        Recreation services",610.2,613.4,616.8,626.2,615.7,621.6,631.6,637.9,635.4,645.9
+77,"            Membership clubs, sports centers, parks, theaters, and museums (82)",235.6,234.6,239.1,241.0,235.0,236.5,242.7,247.2,248.7,256.3
+78,"            Audio-video, photographic, and information processing equipment services (parts of 77 and 93)",141.0,140.7,139.7,141.3,137.2,135.9,135.6,133.7,129.2,131.3
+79,"            Gambling (91)",156.7,161.2,161.0,167.8,168.2,172.8,176.1,180.5,180.9,181.5
+80,"            Other recreational services (81, 94, and part of 92)",78.3,78.2,78.5,77.7,76.7,77.7,78.4,77.9,78.0,78.5
+81,"        Food services and accommodations",1063.4,1063.6,1068.2,1073.1,1070.9,1086.4,1089.8,1086.6,1078.6,1090.8
+82,"            Food services",896.6,897.1,901.9,907.8,908.0,918.0,920.2,917.2,909.2,921.0
+83,"                Purchased meals and beverages (102)",870.9,871.2,875.8,881.5,881.7,891.4,893.5,890.2,882.0,893.7
+84,"                Food furnished to employees (including military) (103)",25.6,25.9,26.1,26.3,26.3,26.5,26.7,26.9,27.1,27.3
+85,"            Accommodations (104)",167.7,167.4,167.0,165.7,163.0,169.1,170.4,170.4,170.7,170.7
+86,"        Financial services and insurance",1145.4,1144.3,1151.6,1160.9,1160.3,1174.0,1181.8,1195.1,1198.7,1206.5
+87,"            Financial services",718.5,716.7,723.5,732.4,730.5,743.6,750.6,762.1,765.4,773.3
+88,"                Financial services furnished without payment (107)",352.1,355.4,361.7,367.5,368.9,364.6,374.6,383.6,386.0,390.1
+89,"                Financial service charges, fees, and commissions (108)",364.4,358.4,358.3,361.1,357.4,376.4,372.4,374.3,375.2,378.9
+90,"            Insurance",424.8,425.8,425.7,425.6,427.3,426.9,427.2,428.3,428.5,427.6
+91,"                Life insurance (110)",100.2,100.3,99.9,99.3,99.8,98.8,97.6,97.7,96.5,95.3
+92,"                Net household insurance (111)",14.5,14.3,14.2,14.2,14.2,14.2,14.3,14.3,14.4,14.4
+93,"                Net health insurance (112)",232.8,233.2,233.3,233.5,234.5,235.0,236.3,237.0,238.1,238.2
+94,"                Net motor vehicle and other transportation insurance (116)",77.2,77.9,78.4,78.6,78.8,79.0,79.3,79.5,79.8,80.0
+95,"        Other services",1403.5,1408.4,1416.9,1438.9,1449.1,1454.3,1476.4,1488.1,1480.4,1482.6
+96,"            Communication",330.5,331.5,335.6,344.9,346.9,354.0,353.3,357.5,363.6,361.9
+97,"                Telecommunication services (71)",221.4,223.3,223.8,230.0,231.9,237.7,237.2,242.3,247.9,244.4
+98,"                Postal and delivery services (68)",12.2,12.0,12.0,11.7,11.6,11.3,11.2,11.0,11.0,10.5
+99,"                Internet access (72)",98.8,98.3,101.4,105.1,105.4,107.6,107.5,107.8,108.8,110.5
+100,"            Education services",303.5,304.5,304.2,304.3,305.3,306.6,307.3,305.7,306.3,307.0
+101,"                Higher education (97)",182.4,181.1,181.0,180.4,180.4,180.2,179.2,177.0,176.7,177.1
+102,"                Nursery, elementary, and secondary schools (98)",49.2,49.7,49.2,49.5,49.6,49.8,50.4,50.4,50.5,50.4
+103,"                Commercial and vocational schools (99)",72.1,74.0,74.3,74.7,75.6,76.9,78.0,78.6,79.4,79.7
+104,"            Professional and other services (121)",207.9,215.6,212.9,213.9,213.5,212.9,220.8,223.4,221.3,220.3
+105,"            Personal care and clothing services (14 and parts of 17 and 118)",166.4,163.5,165.2,165.0,167.0,162.5,161.7,163.0,167.7,170.1
+106,"            Social services and religious activities (120)",253.6,249.8,253.4,252.5,251.6,259.0,264.1,259.4,258.1,259.3
+107,"            Household maintenance (parts of 31, 33, and 36)",82.3,82.6,82.5,82.4,82.3,82.1,82.8,82.9,82.7,83.3
+108,"            Net foreign travel",75.1,77.4,81.1,99.3,106.2,101.4,108.8,121.9,104.1,101.7
+109,"                Foreign travel by U.S. residents (129)",252.8,256.2,264.0,283.9,284.5,275.8,276.0,290.4,269.7,263.4
+110,"                Less: Expenditures in the United States by nonresidents (130)",177.8,178.8,182.9,184.6,178.3,174.4,167.1,168.5,165.6,161.7
+111,"    Final consumption expenditures of nonprofit institutions serving households (NPISHs)1",413.0,423.8,432.7,424.1,412.3,402.5,407.2,414.6,431.4,429.4
+112,"        Gross output of nonprofit institutions (133)2",1712.2,1712.4,1747.2,1739.9,1736.8,1744.6,1772.7,1781.2,1795.8,1817.6
+113,"        Less: Receipts from sales of goods and services by nonprofit institutions (134)3",1302.9,1290.5,1316.5,1319.1,1330.0,1349.8,1373.6,1373.9,1369.5,1394.5
+114,Residual,-186.8,-199.1,-208.5,-232.2,-240.2,-244.5,-263.9,-274.2,-270.9,-277.4
+
+Legend/Footnotes
+"1. Net expenses of NPISHs, defined as their gross operating expenses less primary sales to households."
+"2. Gross output is net of unrelated sales, secondary sales, and sales to business, government, and the rest of the world; excludes own-account investment (construction and software)."
+"3. Excludes unrelated sales, secondary sales, and sales to business, government, and the rest of the world; includes membership dues and fees."
+Note.The figures in parentheses are the line numbers of the corresponding items in table 2.5.6.
+"Note. Chained (2017) dollar series are calculated as the product of the chain-type quantity index and the 2017 current-dollar value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar estimates are usually not additive. The residual line is the difference between the first line and the sum of the most detailed lines."
