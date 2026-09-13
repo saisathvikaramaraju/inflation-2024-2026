@@ -2,10 +2,11 @@
 Analysis and data behind [this post](LINK-TO-SUBSTACK-POST)
 
 ## The question 
-Between January 2024 and August 2026, did US household spending rise because people bought more - or because things cost more? 
+Between January 2024 and June 2026 (BEA quarters 2024 Q1 – 2026 Q2), did US household spending rise because people bought more - or because things cost more? 
 
 ## The finding 
-[1 - 2 sentences, actual result with a number] 
+Across the ten quarters from 2024 Q1 to 2026 Q2, dollars moved and quantity barely did. Spending on gasoline and other energy goods rose **19.1% in dollars and 0.03% in volume** — a gap of 19.1 percentage points. Household utilities: 14.9% in dollars, 3.0% in volume. Groceries: 7.6% and 3.1%. Inflation slowed over this window, but prices did not fall, and spending never reverted.
+
 
 ## What's in here 
 | File | what it is |
