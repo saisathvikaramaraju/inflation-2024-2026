@@ -10,7 +10,6 @@ All cleaning happens in the `analysis.ipynb`.
 |`jewelry.csv`| BEA via FRED | `DJRYRG3A086NBEA` | https://fred.stlouisfed.org/series/DJRYRG3A086NBEA | 2026-09-08 | Index 2017=100, not seasonally adjusted, annual | Jewelry and watches chain-type price index (BEA Table 2.4.4). Series last updated 2026-02-20; next release 2026-09-30. Same file as the row above. | `pce-nominal-t24505.csv` | BEA | Table 2.4.5U | https://apps.bea.gov/iTable/ | 2026-09 -10 | Millions of dollars, monthly | PCE by type of product, underlying detail, current dollars | `pce-real-t24506.csv` | BEA | Table 2.4.6U | https://apps.bea.gov/iTable/ | 2026-09-10 | Millions of chained (2017) dollars, monthly | PCE by type of product, undrelying detail, real |
 
 ## Known issues with these sources: 
-1. Census MARTS advance estimates are revised in later releases. Figures here are as of the pull date and may differ from what's on the site now.
-2. BEA revises PCE. Same caveat.
-3. CPI Category definitions have changed over time; comparisons across long spans are approximate. 
+1. BEA revises PCE. Figures here are as of the pull date and may differ from what's on the site now.
+2. CPI category definitions have changed over time; comparisons across long spans are approximate. 
 

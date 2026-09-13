@@ -17,11 +17,11 @@ Across the ten quarters from 2024 Q1 to 2026 Q2, dollars moved and quantity bare
 | `chai_style.py` | Chart styling |
 
 ## Method 
-1. Pull nominal spending by category (BEA Table 2.4.5U)
-2. Pull a matching CPI series for each spending category (BLS)
-3. Deflate nominal spending by its category price index to get real spending.
-4. Rebase every series to 2024 Q1 = 100 so they are comparable.
-5. Cross-check my deflated figures against BEA's published real PCE (Table 2.4.6)
+1. Pull nominal spending by category (BEA Table 2.4.5U).
+2. Pull the matching real, chained-dollar series for the same categories (BEA Table 2.4.6U).
+3. Rebase both to 2024 Q1 = 100 so they are comparable.
+4. The gap between the two is the price effect: dollars that moved without quantity moving.
+5. Chart CPI separately (BLS via FRED, `CPIAUCSL`) to show the rate falling while the level does not.
 
 ## How to run this 
 Open `analysis-inflation-24-26.ipynb` and Restart Kernel and Run all Cells. 
@@ -29,7 +29,7 @@ Every chart in the post regenerates into `charts/`.
 
 ## Limitations 
 1. Aggregate data hides distribution: These are averages across all US households. The median household's experience may look nothing like this.
-2. Category definitions differ slightly between BLS, Census, and BEA, so matching a price index to a spending category is approximate.
+2. Real spending here is BEA's own chained-dollar series, not a deflator I built. The split between price and quantity is BEA's modelling choice, which I am inheriting rather than testing. Chained dollars are also not additive, so category real figures do not sum to the real total.
 3. Seasonal adjustment is a modelling choice, not a fact. I used the seasonally adjusted series throughout.
 4. Three years is a short window. I cannot distinguish a permanent shift from a slow reversion with this much data.
 5. Substitution and reduction look identical in aggregate data. When real spending falls, I cannot tell whether people bought fewer items or cheaper ones.
